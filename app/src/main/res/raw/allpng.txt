@@ -1,0 +1,20 @@
+﻿tower1.png
+16 16 108 81
+tower2.png
+124 16 229 110
+tower3.png
+245 16 346 107
+tower4.png
+362 16 454 120
+tower5.png
+0 136 101 236
+tower6.png
+117 136 214 242
+tower7.png
+230 136 334 251
+tower8.png
+350 136 408 202
+tower9.png
+0 267 85 367
+tower10.png
+101 267 147 323

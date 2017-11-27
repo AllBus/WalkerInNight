@@ -1,0 +1,7 @@
+<resources>
+	<string name="app_name">WalkerInNight</string>
+	<string name="mainMenuStart">Играть</string>
+	<string name="mainMenuSelectLevel">Выбор уровня</string>
+	<string name="mainMenuSettings">Настройки</string>
+	<string name="mainMenuExit">Выход</string>
+</resources>
